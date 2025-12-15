@@ -13,4 +13,4 @@ The first themed research events of LIMRI will be a one-day workshop that explor
 Confirmed speakers:
 * [Prof Elaine Chew](https://www.kcl.ac.uk/people/elaine-chew) (King's College London)
 * [Prof Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London)
-* [Dr. Amy Blier-Carruthers](https://www.kcl.ac.uk/people/amy-blier-carruthers) (King's College London / Guildhall School of Music and Drama / Royal Academy of Music)
+* [Dr Amy Blier-Carruthers](https://www.kcl.ac.uk/people/amy-blier-carruthers) (King's College London / Guildhall School of Music and Drama / Royal Academy of Music)
