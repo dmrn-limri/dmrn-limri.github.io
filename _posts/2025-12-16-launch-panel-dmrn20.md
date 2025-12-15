@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LIMRI Launch and Panel at DMRN+20"
-slug: DMRN20-panel
+slug: launch-panel-dmrn20
 ---
 
 LIMRI launches at the [DMRN+20](https://www.qmul.ac.uk/dmrn/dmrn20/) workshop on 16 December 2025 with an invited panel:
