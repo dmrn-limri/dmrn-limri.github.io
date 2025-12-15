@@ -1,6 +1,7 @@
 title: LIMRI
-tagline: London Interdisciplinary Music Research Initiative
 description: London Interdisciplinary Music Research Initiative
+baseurl: ""
+url: "https://limri.github.io"
 
 remote_theme: riggraz/no-style-please
 
