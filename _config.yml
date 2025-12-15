@@ -2,6 +2,8 @@ title: LIMRI
 description: London Interdisciplinary Music Research Initiative
 github_username: dmrn-limri
 
+permalink: /:slug.html
+
 # Build settings
 remote_theme: riggraz/no-style-please
 # markdown: kramdown
