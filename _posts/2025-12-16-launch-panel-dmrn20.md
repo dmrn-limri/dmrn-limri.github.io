@@ -8,7 +8,7 @@ LIMRI launches at the [DMRN+20](https://www.qmul.ac.uk/dmrn/dmrn20/) workshop on
 
 We are witnessing a fast-changing research landscape with the advent of deep learning and other data-centric methods applied to ever growing list of domains we used to consider the preserve of humans alone. Within this context, it is sometimes difficult to distinguish between genuine breakthroughs, over excited reporting, and hyped-up marketing. **The aim of this panel, which launches the *London Interdisciplinary Music Research Initiative*, is to stimulate discussion on current frontiers in music research with emphasis on interdisciplinary approaches.** What are the questions we should be asking and aren’t? How can we facilitate cross-disriplinary and interdisciplinary research to address those questions? And how might local networks such as DMRN and LIMRI support individuals to navigate these challenges?
 
-Panelists:
+The panel includes:
 * [Prof Mark Plumbley](https://www.kcl.ac.uk/people/mark-plumbley) (King's College London; moderator)
 * [Dr Oded Ben-Tal](https://www.kingston.ac.uk/about/staff/dr-oded-ben-tal) (Kingston University London)
 * [Dr Diana Omigie](https://www.gold.ac.uk/mind-body-society/people/omigie/) (Goldsmiths, University of London)
