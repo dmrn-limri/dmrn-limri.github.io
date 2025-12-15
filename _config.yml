@@ -19,7 +19,7 @@ theme_config:
   back_home_text: "← back" # customize text for homepage link in post layout
   date_format: "%Y-%m" # customize how dates are displayed
   show_description: true # show tagline under title
-  lowercase_titles: true
+  lowercase_titles: false
 
 # Uncomment if you want to add navigation menu
 # menu:
