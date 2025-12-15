@@ -1,0 +1,38 @@
+title: LIMRI
+tagline: London Interdisciplinary Music Research Initiative
+description: London Interdisciplinary Music Research Initiative
+
+remote_theme: riggraz/no-style-please
+
+# Optional: customize theme settings
+theme_config:
+  appearance: "auto" # can be "light", "dark" or "auto"
+  back_home_text: "← back" # customize text for homepage link in post layout
+  date_format: "%Y-%m" # customize how dates are displayed
+  show_description: true # show tagline under title
+
+# Uncomment if you want to add navigation menu
+# menu:
+#   - title: about
+#     entries:
+#       - title: LIMRI
+#         url: /about
+#   - title: research
+#     entries:
+#       - title: projects
+#         url: /research/projects
+#   - title: contact
+#     url: /contact
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
