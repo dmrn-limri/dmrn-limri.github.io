@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LIMRI Workshop on Expert Performance
+title: "LIMRI Workshop on Expert Performance"
 slug: workshop-expert-performance
 ---
 
