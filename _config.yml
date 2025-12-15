@@ -1,7 +1,10 @@
 title: LIMRI
 description: London Interdisciplinary Music Research Initiative
+github_username: dmrn-limri
 
+# Build settings
 remote_theme: riggraz/no-style-please
+# markdown: kramdown
 
 # Optional: customize theme settings
 theme_config:
@@ -9,6 +12,7 @@ theme_config:
   back_home_text: "← back" # customize text for homepage link in post layout
   date_format: "%Y-%m" # customize how dates are displayed
   show_description: true # show tagline under title
+  lowercase_titles: true
 
 # Uncomment if you want to add navigation menu
 # menu:
@@ -27,11 +31,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Build settings
-markdown: kramdown
 
 # Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
