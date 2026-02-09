@@ -24,6 +24,6 @@ Tentative schedule:
 * 2:05: 3 presentations
 * 3:05: short break
 * 3:15: 2 presentations
-* 3:55: short break
+* 3:55: very short break
 * 4:00: panel discussion
 * 5:00: reception + networking + music
