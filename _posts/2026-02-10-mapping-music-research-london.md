@@ -4,6 +4,8 @@ title: "Mapping Music Research in London"
 slug: mapping-music-research-london
 ---
 
+This list brings together music research groups and departments where individual music researchers work across the capital. 
+
 * Queen Mary University of London
   * [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/)
 
