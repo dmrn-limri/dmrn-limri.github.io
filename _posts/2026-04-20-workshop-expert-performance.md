@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIMRI Workshop on Expert Performance"
+title: "LIMRI Workshop: Interdisciplinary Conversations on Expert Performance"
 slug: workshop-expert-performance
 ---
 
@@ -8,7 +8,7 @@ Wednesday 29 April 2026, 2–6 pm
 
 Hosted by C4DM at the QMUL Mile End Campus.
 
-The first themed research event of LIMRI will be a half-day workshop that explores the many ways we can understand *expert performance in music*. Bringing together researchers and practitioners from fields including performance science, design engineering, music computing, and recording practices, the event will invite diverse perspectives on how musical expertise is developed, expressed, studied, captured, and modelled. 
+The first themed research event of LIMRI will be a half-afternoon workshop that explores the many ways we can understand *expert performance in music*. Bringing together researchers and practitioners from fields including performance science, design engineering, music computing, and recording practices, the event will invite diverse perspectives on how musical expertise is developed, expressed, studied, captured, and modelled. 
 
 The workshop will include 5 talks and a panel discussion, followed by an informal reception with (this is speculative) a suprise concert. 
 
