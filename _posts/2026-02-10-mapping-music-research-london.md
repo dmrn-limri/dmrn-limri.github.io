@@ -43,6 +43,11 @@ This list brings together music research groups and departments where individual
 * Royal College of Music
   * [Centre for Performance Science](https://performancescience.ac.uk/) (with Imperial)
 
+* Royal Academy of Music
+
+* SOAS University of London (School of Oriental and African Studies)
+  * Department of Music
+
 * Kingston University
   * Department of Performing Arts
  
@@ -56,3 +61,5 @@ This list brings together music research groups and departments where individual
 
 * London South Bank University
   * [Acoustics Group](https://lsbu-acoustics.blogspot.com/)
+
+*Is your lab missing? Let us know [c.saitis@qmul.ac.uk]!*
