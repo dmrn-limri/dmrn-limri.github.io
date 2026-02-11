@@ -55,11 +55,14 @@ This list brings together music research groups and departments where individual
   * London College of Music
   * School of Computing and Engineering
 
-* University of Greenwich 
-  * School of Design and Creative Industries
-  * School of Computing and Mathematical Sciences
+* University of East London
+  * Department of Performing Arts
 
 * London South Bank University
   * [Acoustics Group](https://lsbu-acoustics.blogspot.com/)
+
+* University of Greenwich 
+  * School of Design and Creative Industries
+  * School of Computing and Mathematical Sciences
 
 *Is your lab missing? Let us know [c.saitis@qmul.ac.uk]!*
