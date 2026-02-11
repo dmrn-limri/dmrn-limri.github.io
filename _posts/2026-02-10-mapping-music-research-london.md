@@ -4,7 +4,7 @@ title: "Mapping Music Research in London"
 slug: mapping-music-research-london
 ---
 
-This list brings together music research groups and departments where individual music researchers work across the capital. 
+This list brings together groups, labs, institutes and departments where music research of all kinds happens across the UK capital. 
 
 * Queen Mary University of London
   * [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/)
@@ -18,6 +18,7 @@ This list brings together music research groups and departments where individual
 
 * University of the Arts London
   * [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)
+  * [Creative Research in Sound Arts Practice](https://www.arts.ac.uk/research/research-centres/creative-research-in-sound-arts-practice-crisap) < London College of Communication
 
 * University College London
   * Department of Anthropology
