@@ -36,6 +36,7 @@ This list brings together groups, labs, institutes and departments where music r
   * Institute of Musical Research (2015–2020)
 
 * Guildhall School of Music & Drama
+  * [Centre for Creative Performance & Classical Improvisation](https://www.gsmd.ac.uk/study-with-guildhall/music/performance-and-collaboration/centre-for-creative-performance-classical)
 
 * Imperial College London
   * [Augmented Instruments Laboratory](https://instrumentslab.org/)
