@@ -51,6 +51,7 @@ This list brings together groups, labs, institutes and departments where music r
 
 * Kingston University
   * Department of Performing Arts
+  * School of Computer Science and Mathematics
  
 * University of West London
   * London College of Music
