@@ -18,7 +18,7 @@ This list brings together groups, labs, institutes and departments where music r
 
 * University of the Arts London
   * [Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute)
-  * [Creative Research in Sound Arts Practice](https://www.arts.ac.uk/research/research-centres/creative-research-in-sound-arts-practice-crisap) < London College of Communication
+  * [Creative Research in Sound Arts Practice](https://www.arts.ac.uk/research/research-centres/creative-research-in-sound-arts-practice-crisap)
 
 * University College London
   * Department of Anthropology
@@ -26,13 +26,13 @@ This list brings together groups, labs, institutes and departments where music r
   * Department of Culture, Communication and Media
 
 * Goldsmiths, University of London
+  * [Music, Mind & Brain Group](https://www.musicmindbrain.com/)
   * School of Computing
-  * School of Mind, Body and Society
   * School of Music, English and Theatre
 
 * Royal Holloway, University of London
   * Department of Music 
-  * Audio, Biosignals and Machine Learning Group
+  * [Audio, Biosignals and Machine Learning Group](https://www.royalholloway.ac.uk/research-and-education/departments-and-schools/electronic-engineering/research/our-research-groups/audio-biosignals-and-machine-learning-group/)
   * Institute of Musical Research (2015–2020)
 
 * Guildhall School of Music & Drama
