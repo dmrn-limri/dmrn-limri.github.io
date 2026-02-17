@@ -68,5 +68,8 @@ This list brings together groups, labs, institutes and departments where music r
   * School of Design and Creative Industries
   * School of Computing and Mathematical Sciences
   * [Centre for Sound and Image](https://www.gre.ac.uk/research/sound-image)
+ 
+* University of Roehampton
+  * School of Education
 
 *Is your lab missing? Let us know [c.saitis@qmul.ac.uk]!*
