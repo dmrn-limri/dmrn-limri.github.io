@@ -71,5 +71,8 @@ This list brings together groups, labs, institutes and departments where music r
  
 * University of Roehampton
   * School of Education
+ 
+* Middlesex University London
+  * School of Arts
 
 *Is your lab missing? Let us know [c.saitis@qmul.ac.uk]!*
