@@ -28,8 +28,8 @@ Tentative schedule:
 * 4:00: panel discussion
 * 5:00: reception + networking + music
 
-Registration:
+Registration form:
 
-Please register here: https://forms.office.com/e/EdxFtn74xL
+[https://forms.office.com/e/EdxFtn74xL](https://forms.office.com/e/EdxFtn74xL) 
 
 Registration is free. Capacity is limited so please only book if you’re coming. In case of issues, priority will be given to London-affiliated colleagues and students.
