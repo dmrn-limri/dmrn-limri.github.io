@@ -69,6 +69,8 @@ This list brings together groups, labs, institutes and departments where music r
   * School of Computing and Mathematical Sciences
   * [Centre for Sound and Image](https://www.gre.ac.uk/research/sound-image)
  
+* Trinity Laban Conservatoire of Music and Dance
+ 
 * University of Roehampton
   * School of Education
  
