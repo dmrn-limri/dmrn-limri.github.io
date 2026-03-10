@@ -25,6 +25,7 @@ This list brings together groups, labs, institutes and departments where music r
   * Department of Anthropology
   * Department of Computer Science
   * Department of Culture, Communication and Media
+  * Department of Information Studies
   * [Person-Environment-Activity Research Laboratory (PEARL)](https://www.ucl.ac.uk/person-environment-activity-research-laboratory/)
 
 * Goldsmiths, University of London
