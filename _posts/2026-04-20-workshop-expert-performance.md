@@ -34,7 +34,7 @@ Registration form: **Closed**
 
 Registration is free. Capacity is limited so please only book if you’re coming. In case of issues, priority will be given to London-affiliated colleagues and students. Free registration should save attendees not only money but also administrative hassle (of navigating yet another one-time login to a payment portal to pay and/or the none-too-trivial business of attempting to get it reimbursed). 
 
-There will be no catering for refreshments and coffee/tea during the short breaks between the talks and panel. All attendees can use the [Ground Cafe](https://www.qmsu.org/ground/) or the Graduate Centre Foyer cafe, paying with regular bank card.
+There will be no catering for refreshments and coffee/tea during the short breaks between the talks and panel. All attendees can use the [Ground Cafe](https://www.qmsu.org/ground/) or the Graduate Centre Foyer cafe, paying with regular bank card, both on campus and at a minute's walk from the workshop space (TBC).
 
 Some drinks (non-alcoholic and alcoholic) and snacks will be provided during reception + networking + music, courtesy of the [Centre for Digital Music](https://www.c4dm.eecs.qmul.ac.uk/).
 
