@@ -44,6 +44,8 @@ The workshop will include 5 talks and a panel discussion, followed by an informa
 [QMUL Mile End campus map
 ](https://www.qmul.ac.uk/media/qmul/docs/about/Mile-End-campus-map.pdf)
 
+The talks and panel will take place in the David Sizer Lecture Theatre, which is located on the ground floor of the Bancroft Building (#31 on campus map).
+
 There will be no catering for refreshments and coffee/tea during the short breaks between the talks and panel. All attendees can use the [Ground Cafe](https://www.qmsu.org/ground/) (#33 on campus map) or the Graduate Centre Foyer cafe (#18 on campus map, there's a small chance it might be closed), paying with regular bank card, both at a minute's walk from the workshop space (TBC).
 
 The reception/networking and surprise music concert will take place in spaces of the C4DM Studios (#15 on campus map). Some drinks (non-alcoholic and alcoholic) and snacks will be provided, courtesy of C4DM. Thank you!
