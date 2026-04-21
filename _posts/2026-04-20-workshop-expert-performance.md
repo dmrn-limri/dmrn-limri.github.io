@@ -15,23 +15,24 @@ The workshop will include 5 talks and a panel discussion, followed by an informa
 **Invited speakers**
 * [Prof Elaine Chew](https://www.kcl.ac.uk/people/elaine-chew) (King's College London)
 * [Prof Andrew McPherson](https://andrewmcpherson.org/) (Imperial College London)
-* [Dr Amy Blier-Carruthers](https://www.kcl.ac.uk/people/amy-blier-carruthers) (King's College London / Guildhall School of Music and Drama / Royal Academy of Music)
+<!-- * [Dr Amy Blier-Carruthers](https://www.kcl.ac.uk/people/amy-blier-carruthers) (King's College London / Guildhall School of Music and Drama / Royal Academy of Music) -->
 * [Dr Mira Benjamin](https://www.citystgeorges.ac.uk/about/people/academics/mira-benjamin) (City St George's, University of London)
 * [Dr George Waddell](https://www.rcm.ac.uk/research/people/details/?id=03462) (Royal College of Music / Imperial College London)
 
 **Schedule**
-* 2:00: welcome + intro
-* 2:05: 3 presentations
-  * **Amy Blier-Carruthers:** TBC
-  * **Andrew McPherson:** *Enacted, not extracted: designing and performing with music-analytical concepts.* We rely on language and symbols to discuss and analyse music. Designers of digital technologies often then invert analytical language into a basis for generating or processing music. Performing with digital technologies thus becomes a negotiation between different musicians, engineers, knowledge systems and sociocultural contexts. This talk will begin with a stubbornly contrarian take on some seemingly obvious premises of musical ontology. I will then examine the ways that technologies, from MIDI keyboards to programming languages to generative AI systems, influence the way we think, and examine why that influence can easily go unnoticed. Finally, I will speculate on what this situation might mean for designers and engineers seeking alternatives to the prevailing ways of conceptualising music technology.
-  * **Elaine Chew:** TBC
-* 3:05: short break
-* 3:15: 2 presentations
-  * **Mira Benjamin:** *Three phenomenotechnical illuminations: Windfell.* In this audiovisual performance-talk I respond to Ben Spatz’s invitation for performers to ‘return to the language of technique’ in order to get to the ‘aboutness’ of embodied work. Using a combination of recorded audio, annotated video and live playing, I interrogate embodied technique in James Weeks’ Windfell for solo performer, drawing on Gaston Bachelard’s framework of phenomenotechnique via Spatz’s (2020) writings on embodied theatre practices. The talk presents current developing work on 'phenomenotechnical illumination’—an audiovisual research method that exposes the thick intersection of various technical framings—and proposes how such an articulation may offer insight into the knowledge that inheres in embodied performance.
-  * **George Waddell:** *Under the spotlight: developing and studying expertise in performance environments.* Any experienced performer knows that the spaces where they learn their expert practice feel very different from the venues where they perform it. A musician on stage, a surgeon in the theatre, or an athlete on the pitch faces a complex and dynamic set of factors that can fundamentally change the nature and outcomes of their performance. This talk will focus on the challenges of preparing for, executing, and studying performance where it happens including some of the latest techniques and technologies being developed to bridge the gap between the practice room and the stage. Here’s a relevant [video](https://www.youtube.com/watch?v=K0eMCV7vJg8) if useful.
-* 3:55: very short break
-* 4:00: panel discussion
-* 5:00: reception + networking + music
+* 2:00 welcome + intro
+* 2:10 2 presentations
+  * **Andrew McPherson:** *Enacted, not extracted: designing and performing with music-analytical concepts.* 
+  * **Elaine Chew:** *I can capture expert performance and musician physiology, so now what? – Dissecting empirical traces of expert performance.* 
+* 2:50 short break
+* 3:00 2 presentations
+  * **Mira Benjamin:** *Three phenomenotechnical illuminations: Windfell.* 
+  * **George Waddell:** *Under the spotlight: developing and studying expertise in performance environments.* 
+* 3:40 short break
+* 3:50 panel discussion
+* 4:40 closing remarks + announcements + walk to reception/music space 
+* 5:00 reception + networking + some music
+* 6:00 adjournment + (optional) head to a pub nearby
 
 **On the day practicalities**
 
