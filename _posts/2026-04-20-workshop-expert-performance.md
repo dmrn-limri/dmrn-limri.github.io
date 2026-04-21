@@ -34,6 +34,8 @@ The workshop will include 5 talks and a panel discussion, followed by an informa
 * 5:00 reception + networking + some music
 * 6:00 adjournment + (optional) head to a pub nearby
 
+Description of the four talks can be found [here](https://docs.google.com/document/d/17ggQ28DOMfY5u95Ydpb3tkcj2xdvp39I480QZNJHZeY/edit?usp=sharing). 
+
 **On the day practicalities**
 
 <!-- Registration form: **Closed** -->
