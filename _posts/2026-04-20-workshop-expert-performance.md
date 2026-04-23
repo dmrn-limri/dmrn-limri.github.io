@@ -20,6 +20,7 @@ The workshop will include 5 talks and a panel discussion, followed by an informa
 * [Dr George Waddell](https://www.rcm.ac.uk/research/people/details/?id=03462) (Royal College of Music / Imperial College London)
 
 **Schedule**
+* 1:30 doors open
 * 2:00 welcome + intro
 * 2:10 2 presentations
   * **Andrew McPherson:** *Enacted, not extracted: designing and performing with music-analytical concepts.* 
