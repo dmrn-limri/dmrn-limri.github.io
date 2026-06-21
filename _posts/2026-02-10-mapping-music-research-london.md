@@ -57,6 +57,9 @@ This list brings together groups, labs, institutes and departments where music r
   * Department of Performing Arts
   * School of Computer Science and Mathematics
  
+* Loughborough University London
+  * [CHAOS Lab](https://thechaoslab.org/)
+ 
 * University of West London
   * London College of Music
   * School of Computing and Engineering
