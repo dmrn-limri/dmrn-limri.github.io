@@ -6,7 +6,7 @@ slug: workshop-aesthetics
 
 Monday 2 November 2026, 4–9 pm
 
-Hosted by the [SAS (School of Advanced Studies) Institute of Philosophy](https://philosophy.sas.ac.uk/) at the [Senate House](https://maps.app.goo.gl/RTWibgPocYL36ADz5) in central London.
+Hosted by the [SAS (School of Advanced Studies) Institute of Philosophy](https://philosophy.sas.ac.uk/) at the [Senate House](https://maps.app.goo.gl/RTWibgPocYL36ADz5) in central London (Chancellor's Hall, first floor).
 
 The second themed research event of LIMRI will focus on Music and Aesthetics in collaboration with the Institute of Philosophy and the Centre for the Study of the Senses. The workshop brings together scholars and practitioners from a range of disciplines to facilitate discussion on changing notions of aesthetics and the beautiful. The advent of generative music AI brings urgency as well as new insight to these centuries old debates. The workshop will include short presentations, a concert of joint improvisation between human pianist and an AI-inspired system, a panel discussion. Attendees will also have an opportunity to contribute to a pilot study on aesthetic evaluation of music co-created with AI.
 
